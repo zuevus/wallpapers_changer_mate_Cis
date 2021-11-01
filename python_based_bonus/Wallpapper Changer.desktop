@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon=mate-ax-key-yes
+Icon[en_US]=mate-ax-key-yes
+Exec=python /home/mry/Pictures/wallpapers/changer.py /home/mry/Pictures/wallpapers 30M
+Comment[en_US]=each 30 min
+Name[en_US]=Wallpapper Changer
+Name=Wallpapper Changer
+Comment=each 30 min
